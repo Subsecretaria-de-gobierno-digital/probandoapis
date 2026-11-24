@@ -1,7 +1,7 @@
-﻿CveMes,Mes,días
-4,Abril,30
-8,Agosto,31
-12,Diciembre,31
+﻿CveMes,Mes,días,nombre día
+4,Abril,30,Lunes
+8,Agosto,31,Martes
+12,Diciembre,31,Viernes
 1,Enero,31
 2,Febrero,28
 7,Julio,31
